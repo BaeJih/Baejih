@@ -1,6 +1,6 @@
-## Summer Lee @leeyeoreum02
+## Bae ji hoon BaeJih
 
-**Interests:** `Computer Vision`, `Image Classification`, `Object Detection`, `Super Resolution`, `Pose Estimation`
+**Interests:** `Computer Vision`, `Image Classification`, `Big Data`,'Engineering'
 <br><br>
 
 ### 🛠 ***Tech Stack***
